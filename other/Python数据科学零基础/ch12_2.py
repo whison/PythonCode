@@ -1,5 +1,7 @@
-class Banks():
-    '''定义银行'''
+class Banks:
+    '''
+    定义银行
+    '''
     bankname = 'MinSheng Bank'
 
     def motto(self):

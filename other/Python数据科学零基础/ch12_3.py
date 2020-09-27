@@ -7,7 +7,7 @@
 '''
 
 
-class Banks ():
+class Banks:
     BankName = 'ABC Bank'
 
     def __init__(self, username, money):
